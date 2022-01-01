@@ -9,6 +9,8 @@ This is an open research project for building Health Metaverse, a virtual 3D wor
 3. Facilitate the building of Health Metaverse based on existing information technology;
 4. Monitor challenges and research trends around Health Metaverse.
 
+![Virtual Reality in Healthcare](images/metaverse-virtual-reality.png)
+
 ### Contributors
 
 [Donghua Chen](https://github.com/dhchenx)
