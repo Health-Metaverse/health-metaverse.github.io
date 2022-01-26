@@ -44,7 +44,7 @@ Donghua Chen and Runtong Zhang. Exploring Research Trends of Emerging Technologi
 
 ### Contributors
 
-[Donghua Chen](https://github.com/dhchenx)
+[Donghua Chen](https://github.com/dhchenx) 
 
 
 © 2022 Project Health Metaverse
