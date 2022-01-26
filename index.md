@@ -1,12 +1,9 @@
----
-customjs: //cdn.plu.mx/widget-popup.js
-- 
----
+
 ## Welcome to Project Health Metaverse
 
 This is an open research project for building Health Metaverse, a virtual 3D world based on medical domain knowedge and healthcare services. 
 
-
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
 [What is Metaverse?](word_clouds/what-is-metaverse.md)
 
